@@ -1,2 +1,2 @@
-# livara
-Livara Production / Pos App
+# pos-magic
+pos-magic
